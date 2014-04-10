@@ -1,0 +1,333 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>sydney nelson</title>
+
+<style>
+
+body {
+	font-family:"Brandon-alt","Helvetica Neue",Helvetica,Arial,
+	sans-serif;
+	font-weight:normal;
+	color: #404040;
+}
+
+.wrap {
+	max-width:960px;
+	width:70%;
+	margin:0 auto;
+	padding:5em 0 4em
+}
+
+#main {
+	margin:0 auto !important;
+	float:none;
+}
+
+.row-fluid {
+	margin-bottom:0
+}
+
+a,a:visited {
+	color:#bea573;
+	text-decoration:none
+}
+
+a:hover,a:focus,a:visited:hover,a:visited:focus {
+	text-decoration:none;color:#bea573;
+}
+
+a:link,a:visited:link {
+	-webkit-tap-highlight-color:rgba(0,0,0,0.3);
+}
+
+
+.fullwidthimage {
+	position:relative;
+	height:auto;
+	overflow:hidden;
+	top:0;z-index0;
+	width100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+
+.fullwidthimage .title {
+	position:relative;
+	display:table;
+	vertical-align:middle;
+	width:100%;z-index:	1;
+}
+
+.fullwidthimage .title div {
+	display:table-cell;
+	vertical-align:middle;
+	height:60em;
+}
+
+.fullwidthimage .title div h1 {
+	font-family:"Brandon-alt","Helvetica Neue",Helvetica,Arial,
+	sans-serif;
+	font-weight:normal;
+	font-style:normal;
+	display:block;
+	max-width:1040px;
+	margin:0 auto;
+	color:#404040;
+	text-align:center;
+	font-size:3.5em;
+	letter-spacing:0.1em;
+	text-transform:uppercase;
+	line-height:1.05em;
+}
+
+
+.banner {
+	top:0;
+	background:white;
+	z-index:20;
+	width:100%;
+	box-shadow:0 0 5px rgba(0, 0, 0, 0);
+}
+
+.banner, .touch .banner {
+	position:fixed !important;
+}
+
+.banner:hover {
+	box-shadow:0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.banner .container {
+	width:100%;
+	padding:0 1%;
+}
+
+.banner .navbar-inner {
+	margin:0;
+}
+
+.banner .navbar-inner .banner .navbar-inner .brand img {
+	height:1.75em;
+	float:left;
+}
+
+.banner .navbar-inner.nav {
+	margin:0;
+	background-color:transparent;
+	text-align:right;
+	padding-top:1em;
+}
+
+.banner .navbar-inner .nav li {
+	float:none;
+	display:inline;
+}
+
+.banner .navbar-inner .nav li a {
+	font-family:"Brandon-alt","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight:normal;
+	font-style:normal;
+	padding:1.35em 1.25em 1.25em;
+	text-transform:uppercase;
+	letter-spacing:0.1em;
+	font-size:0.75em;
+	line-height:1em;
+	color:#404040;
+	background:transparent;
+	text-shadow:none;
+}
+
+.banner .navbar-inner .nav li a:hover {
+	background:white;
+	color:#bea573;
+}
+
+.footer {
+	clear:both;
+	padding-top:1em;
+}
+
+.footer #inner-footer {
+	border-top:1px solid #bea573;
+	padding:1em 0 0;
+	margin:0 auto;
+}
+
+.footer .nav {
+	list-style:none;
+	padding-bottom:1.2em;
+	text-align:right;
+	margin-top: 0;
+	background:transparent;
+}
+
+.footer .nav li {
+	float:none;
+	display:inline;
+}
+
+.footer .nav li a {
+	font-family:"Brandon-alt","Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:normal;
+	font-style:normal;
+	padding:1.35em 1.25em 1.25em;
+	letter-spacing:0.1em;
+	font-size:0.75em;
+	line-height:1em;
+	color:#404040;
+	background:transparent;
+	text-shadow:none;
+}
+
+.footer a:hover {
+	color:#bea573 !important;
+}
+
+.page-id-8 .fullwidthimage {
+	position:relative;
+}
+
+.page-id-4 .fullwidthimage {
+	position:relative;
+}
+
+
+@media only screen and (min-width: 1025px){.fullwidthimage{background-attachment:fixed;position:absolute}}
+@media only screen and (max-width: 1024px){.fullwidthimage.home-logo .title div
+h1{max-width:480px;font-size:3em}
+.span6.rhcol{float:none;margin:0;width:100%}}
+@media only screen and (max-width: 768px){body{font-size:90%}
+.wrap{width:85% !important}
+.fullwidthimage.home-logo .title div h1{max-width:600px;font-size:4em}
+
+</style>
+
+
+		
+
+</head>
+
+
+
+<body>
+<div id="container">
+<body class="home page page-id-4 page-template-default">
+<header class="banner navbar navbar-static-top" role="banner">
+<div class="navbar-inner">
+		<!-- logo -->  
+<a class="brand" href="index.html">  	
+<img src="" alt="" />
+</a>
+		
+		      
+<nav class="nav-main nav-collapse" role="navigation">
+<ul id="menu-primary-navigation" class="nav top-nav">
+		<!-- about -->
+<li id>
+<a href="index.html" >about</a></li>
+		<!-- churches -->
+<li id>
+	<a href="index.html" >work</a></li>
+		<!-- news -->
+<li id>
+	<a href="index.html" >resume</a></li>
+		<!-- contact -->
+<li id>
+	<a href="index.html" >contact</a></li>
+</ul>		        
+</nav>
+</div>
+</header>
+		<!-- end header -->
+		
+		
+		
+  		<!-- image 1 & title css -->
+<div class="fullwidthimage" style="background-image: url(images/diamond1.jpg) !important;">
+<div class="title">
+<div>
+	<h1>sydney nelson</h1>
+</div>
+</div>
+</div>
+
+
+
+<div id="inner-content" class="wrap">
+<div class=" row-fluid">
+
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>      
+<div class="row-fluid">			
+</div>		<!-- end #row-fluid -->
+</div> 		<!-- end #main -->
+</div> 		<!-- end #inner-content -->
+
+	
+			
+			<!-- image 2 & title css -->
+<div class="fullwidthimage" style="background-image: url(images/diamond2.jpg) !important;">
+<div class="title">
+<div>
+	<h1>???</h1>
+</div>
+</div>
+</div>
+		
+		
+	
+<div class="wrap container-fluid"> 
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>      
+<div class="row-fluid">
+</div>		<!-- end #row-fluid -->
+</div>		<!-- end #wrap  container-fluid -->
+
+
+
+	
+		
+			<!-- image 3 & title css -->		
+<div class="fullwidthimage" style="background-image: url(images/diamond3.jpg) !important;">
+<div class="title">
+<div>
+	<h1>???</h1>
+</div>
+</div>
+</div>
+	
+	
+
+<div class="wrap container-fluid"> 
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>      
+<div class="row-fluid">
+</div>		<!-- end #row-fluid -->
+</div>		<!-- end #wrap  container-fluid -->
+			
+			
+
+		<!-- footer -->			
+<footer class="footer">
+<div id="inner-footer" class="wrap">
+<ul id="menu-footer-pages" class="nav footer-nav">
+
+<li id>
+	<a href="index.html" >home</a></li>
+<li id>
+	<a href="index.html" >about</a></li>
+<li id>
+	<a href="index.html" >work</a></li>
+<li id>
+	<a href="index.html" >resume</a></li>
+<li id>
+	<a href="index.html" >contact</a></li>
+</ul>					
+</nav>
+</div> 		<!-- end #inner-footer -->
+</footer>
+</div> 		<!-- end #container -->
+
+
+
+</body>
+</html>
